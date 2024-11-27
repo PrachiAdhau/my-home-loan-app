@@ -1,0 +1,17 @@
+{"Enquiry":[
+    {
+     "applicant_Id":1,
+	"first_Name":"Prachi",
+	" last_Name":"Adhau",
+	"age":26,
+	" email":"adhauprachi10@gmal.com",
+	"mobileNo":9765848383,
+	"alternateMobileNo":9364514097,
+	 "pancardNo":"HTPO98671",
+	"adharNo":125476980934,
+	 "address":"Karvenagar",
+	"city":"Pune"
+
+    }
+]
+}
