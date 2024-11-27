@@ -8,10 +8,12 @@ import AddEnquiry from './EnquiryDetails/AddEnquiry';
 
 function App() {
   return (
-    
+
     <div className="App">
     <BrowserRouter>
     <Header/>
+
+    
     <div className='background'>
       <Routes>
         <Route path='/' element={<ViewEnquiry></ViewEnquiry>}></Route>
